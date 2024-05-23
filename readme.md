@@ -23,7 +23,7 @@ BookHub este o aplicație destinată iubitorilor de cărți care vor să vadă d
 
 1. Clonarea acestui repository:
     ```bash
-    git clone https://github.com/GVolter/BookHub.git
+    git clone git@github.com:GVolter/BookHub.git
     ```
 
 2. Instalarea dependențelor:
