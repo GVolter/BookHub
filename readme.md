@@ -73,7 +73,7 @@ BookHub este o aplicație destinată iubitorilor de cărți care vor să vadă d
 
 2. Autentificare utilizator:
     ```bash
-    POST /auth/login
+    POST /auth/signin
     {
       "email": "user@example.com",
       "password": "Password1!"
